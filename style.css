@@ -1,0 +1,82 @@
+.form_area{
+	width: 500px;
+	background: #222536;
+	margin: 0 auto;
+	color: #F6DC30;
+}
+form h3{
+	height: 30px;
+	background: #DE8704;
+	padding-left: 5px;
+	text-align: center;
+
+}
+label{
+	width: 150px;
+	float: left;
+	text-align: right;
+	margin-right: 15px;
+
+}
+.input_area{
+	margin-bottom: 10px;
+}
+.inp{
+	width: 250px;
+	border: none;
+	padding: 5px;
+	border-radius: 5px;
+	background: #ccc;
+	margin-right: 9px;
+}
+.month{
+	border: none;
+	padding: 4px 10px;
+	border-radius: 5px;
+	background: #ccc;
+	margin-right: 9px;
+}
+.day{
+	border: none;
+	padding: 4px 10px;
+	border-radius: 5px;
+	background: #ccc;
+	margin-right: 10px;
+}
+.year{
+	border: none;
+	padding: 4px 10px;
+	border-radius: 5px;
+	background: #ccc;
+	
+}
+#check{
+	margin-left: 165px;
+}
+.submit_area{
+	width: 500px;
+	height: 50px;
+	background: #DE8704;
+}
+.subm{
+	margin: 13px 0px 0px 300px;
+}
+.bc{
+	padding: 5px 10px;
+	background: #5BB85D;
+	color: #fff;
+	border: none;
+	border-radius: 3px;
+}
+.bcl{
+	padding: 5px 10px;
+	background: #D9534F;
+	color: #fff;
+	border: none;
+	border-radius: 3px;
+}
+h5{
+	height: 30px;
+	background: #222536;
+	padding-left: 5px;
+	text-align: center;}
